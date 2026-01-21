@@ -66,6 +66,22 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
   <img src="https://cdn.worldvectorlogo.com/logos/pygame.svg" alt="pygame" width="40" height="40"/>
 </p>
 
+### Professional Experience
+
+> **Note:** Projects developed within private entities and research scholarships are under Non-Disclosure Agreements (NDA); source code is not publicly available.
+
+#### **Data Scientist | Iberdrola** (May 2025 – July 2025)
+* **Mathematical Optimization (PRADA 2.0):** Developed a cascade optimization model from scratch to optimize base node positioning for 11.6 million electricity meters. Formulated real-world constraints using mathematical logic with **HiGHS** and **Google OR-Tools**.
+* **Cloud Architecture:** Integrated optimization models into Iberdrola’s **Azure ML** ecosystem, handling production-level big data workflows.
+* **Strategic Collaboration:** Supported the launch of a new AI Academy and Machine Learning Lab in the Basque Country.
+
+#### **Teaching Collaboration Scholar | Universidad Pontificia Comillas ICAI** (Oct 2024 – Present)
+* **LLM Research & Automation:** Developing AI-driven systems using Large Language Models to automate the evaluation of Python programming projects, enhancing pedagogical efficiency and feedback accuracy.
+* **Curriculum Innovation:** Building automation tools for MOOC creation, applying **text-to-video** and **audio-to-text** AI pipelines.
+
+#### **Member of the Driverless Team | ISC Racing Team** (June 2023 – June 2024)
+* Contributed to the development of a fully autonomous vehicle for **Formula Student Driverless** competitions, bridging low-level control with high-level perception systems.
+
 ### Featured Projects
 
 #### [Formula Student Driverless Simulator](https://github.com/nacho-fel/Formula-Student-Driverless-Simulator)
