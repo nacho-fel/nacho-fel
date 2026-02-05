@@ -5,13 +5,13 @@
 I am a student of Mathematical Engineering and Artificial Intelligence at Universidad Pontificia Comillas (ICAI). My work focuses on the development of models to solve real-world problems. It includes from neural networks to more advanced mathematical solutions. Here I share some of my work!
 ### Areas of Expertise
 
-* **Deep Learning:** Architecting and training CNNs, RNNs, and VAEs, primarily utilizing the **PyTorch** framework.
+* **Deep Learning:** Architecting and training CNNs, RNNs, and VAEs, primarily utilizing the PyTorch framework.
 * **Natural Language Processing:** Extensive work with Transformer architectures, NER, Sentiment Analysis, LLM adaptation, prompt engineering, and fine-tuning techniques.
 * **Computer Vision:** Developing multimodal pipelines, image captioning systems, and advanced feature extraction methods.
 * **Autonomous Systems & Robotics:** Designing perception and control pipelines for driverless racing.
 * **Reinforcement Learning:** Application of RL agents to complex decision-making environments.
 * **Time Series Analysis & Forecasting:** Modeling temporal data for predictive analytics.
-* **Mathematical Modeling & Optimization:** Solving large-scale problems using **Gurobi**, numerical methods, and statistical modeling.
+* **Mathematical Modeling & Optimization:** Solving large-scale problems using Gurobi, numerical methods, and statistical modeling.
 * **MLOps Foundations:** Building robust data pipelines, managing GitHub projects, and ensuring reproducible environments.
 
 ### Technical Skills
