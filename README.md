@@ -88,13 +88,13 @@ I am a student of **Mathematical Engineering and Artificial Intelligence** at Un
 * A virtual environment where Autonomous Systems from different Formula Student teams compete in time-trial challenges.
 * Focused on C++ implementation and high-performance simulation logic.
 
-#### [Autonomous Robots Portfolio](https://github.com/nacho-fel/Robots)
-* Collection of updates and implementations for autonomous robotic systems.
-* Focuses on low-level logic and system stability.
+#### [Autonomous Robots Portfolio](https://github.com/nacho-fel/GPS_APP)
+* GPS navigation system for Madrid’s street network, modeling the city as a weighted graph where intersections are vertices and street segments are edges.
+* Focuses on implementation of navigation and route planning algorithms.
 
-#### [NLP Research & Implementation](https://github.com/nacho-fel/p4-skip-gram-nacho-fel)
-* Implementation of Word2Vec (Skip-gram) and Encoder-based architectures for Natural Language Processing.
-* Developed as part of the advanced NLP curriculum at ICAI.
+#### [NLP Research & Implementation](https://github.com/nacho-fel/AutomaticAlertGenerator-NER-SA_Implementation)
+* Implementation of development of an automatic alert generation system from news articles and social media posts.
+* Developed bi-directional LSTM and CNN architectures.
 
 ---
 
