@@ -67,7 +67,7 @@ I am a student of Mathematical Engineering and Artificial Intelligence at Univer
 
 ### Professional Experience
 
-> **Note:** Projects developed within private entities and research scholarships are under Non-Disclosure Agreements (NDA); source code is not publicly available.
+> **Note:** Projects developed within private entities and research scholarships are under Non-Disclosure Agreements (NDA), source code is not publicly available.
 
 #### **Data Scientist | Iberdrola** (May 2025 – July 2025)
 * **Mathematical Optimization (PRADA 2.0):** Developed a cascade optimization model from scratch to optimize base node positioning for 11.6 million electricity meters. Formulated real-world constraints using mathematical logic with HiGHS and Google OR-Tools.
