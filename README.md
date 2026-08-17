@@ -74,17 +74,53 @@ Selected projects spanning reinforcement learning, NLP, autonomous systems, opti
 
 ## Technical Skills
 
-### Programming & Data
+### Programming & Databases
 
-`Python` `R` `MATLAB` `C#` `JavaScript` `SQL` `MongoDB` `Neo4j` `Redis`
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/NEO4J-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
 ### Machine Learning, AI Agents & Quantitative Methods
 
-`PyTorch` `scikit-learn` `Pandas` `NumPy` `LLMs` `RAG` `Multi-Agent Systems` `NLP` `Reinforcement Learning` `Time Series` `Mathematical Optimization` `Gurobi` `HiGHS` `OR-Tools`
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/MULTI--AGENT_SYSTEMS-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge" alt="Natural Language Processing" />
+  <img src="https://img.shields.io/badge/REINFORCEMENT_LEARNING-D81B60?style=for-the-badge" alt="Reinforcement Learning" />
+  <img src="https://img.shields.io/badge/TIME_SERIES-5E35B1?style=for-the-badge" alt="Time Series" />
+  <img src="https://img.shields.io/badge/OPTIMIZATION-0288D1?style=for-the-badge" alt="Mathematical Optimization" />
+  <img src="https://img.shields.io/badge/GUROBI-EE3524?style=for-the-badge" alt="Gurobi" />
+  <img src="https://img.shields.io/badge/HiGHS-005F86?style=for-the-badge" alt="HiGHS" />
+  <img src="https://img.shields.io/badge/OR--TOOLS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OR-Tools" />
+</p>
 
 ### Cloud, Search & Development
 
-`Azure ML` `Azure AI Search` `AWS` `Docker` `Git` `GitHub` `Linux` `REST APIs` `TensorBoard` `Power BI`
+<p align="left">
+  <img src="https://img.shields.io/badge/AZURE_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Machine Learning" />
+  <img src="https://img.shields.io/badge/AZURE_AI_SEARCH-0067B8?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Search" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/TENSORBOARD-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorBoard" />
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
 ---
 
