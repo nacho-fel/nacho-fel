@@ -1,88 +1,68 @@
 # Ignacio Felices Vera
 
-**Machine Learning Engineer | Mathematical Engineer | AI Researcher**
+## Mathematical Engineer & AI Researcher | Multi-Agent Systems | Machine Learning | Quantitative Modeling | Optimization
 
-I am a Mathematical Engineering and Artificial Intelligence graduate from Universidad Pontificia Comillas (ICAI), with additional academic experience at the University of Illinois Urbana-Champaign. I build machine learning, optimization, and retrieval systems for real-world scientific and industrial problems.
+I am a Mathematical Engineering and Artificial Intelligence graduate from Universidad Pontificia Comillas (ICAI), with additional academic experience at the University of Illinois Urbana-Champaign. I am currently conducting research at MIT on multi-agent systems for geothermal techno-economic modeling.
 
-My recent work spans multi-agent modeling for geothermal economics at MIT, an AI-powered regulatory intelligence platform developed by Avangrid in collaboration with IBM, and large-scale mathematical optimization at Iberdrola.
+My work sits at the intersection of **AI agents, information retrieval, mathematical optimization, and data-driven decision-making**. I have developed retrieval systems for Avangrid and IBM, large-scale optimization models for Iberdrola, and machine learning projects spanning reinforcement learning, NLP, autonomous systems, and quantitative finance.
 
-## Areas of Focus
+---
 
-- **Machine Learning & Deep Learning:** PyTorch, scikit-learn, neural networks, representation learning, and time-series forecasting.
-- **Generative AI & NLP:** RAG, LLM evaluation, information retrieval, semantic search, NER, prompt engineering, and model adaptation.
-- **Mathematical Modeling & Optimization:** Large-scale optimization, operations research, Gurobi, HiGHS, and OR-Tools.
-- **Reinforcement Learning:** Value-based agents, DQN, SARSA, environment design, and reward engineering.
-- **Autonomous Systems:** Perception and control pipelines for driverless racing applications.
-- **MLOps & Cloud:** Reproducible ML pipelines, Azure ML, Azure AI Search, Docker, and production-oriented workflows.
+## Current Focus
 
-## Technical Skills
+- **Multi-Agent Systems:** Modeling interactions between technical, economic, and research agents to estimate the cost of emerging geothermal technologies.
+- **AI Retrieval Systems:** Structure-aware document processing, hybrid search, semantic ranking, and evaluation for retrieval-augmented generation.
+- **Quantitative Modeling:** Machine learning and mathematical optimization for financial, scientific, and industrial decision-making.
+- **Reliable AI:** Building systems whose outputs can be evaluated against explicit metrics, constraints, and real-world evidence.
 
-### Programming Languages
+---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+## Featured Projects
 
-### Machine Learning & Data
+Selected projects spanning reinforcement learning, NLP, autonomous systems, optimization, and quantitative modeling.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [**Reinforcement Learning Logistics Environment**](https://github.com/nacho-fel/ReinforcementLearning_MultipleEnvironmentLogisticApplication) | Multi-environment logistics system featuring continuous navigation and warehouse tasks. Implements SARSA with tile coding and DQN agents, together with feature engineering, reward design, and systematic evaluation. | `Python` `Stable-Baselines3` `SARSA` `DQN` `TensorBoard` |
+| [**Formula Student Driverless Simulator**](https://github.com/nacho-fel/Formula-Student-Driverless-Simulator) | Competitive simulation environment where autonomous systems from different Formula Student teams can be evaluated in time-trial scenarios. | `C++` `Autonomous Systems` `Simulation` |
+| [**Madrid GPS Application**](https://github.com/nacho-fel/GPS_APP) | Graph-based navigation system that models Madrid's street network and calculates efficient routes between locations using shortest-path algorithms. | `Graph Theory` `Routing` `Algorithms` |
+| [**Automatic Alert Generator**](https://github.com/nacho-fel/AutomaticAlertGenerator-NER-SA_Implementation) | NLP pipeline that transforms news and social-media content into structured alerts using entity extraction and sentiment analysis. | `Python` `BiLSTM` `CNN` `NER` `Sentiment Analysis` |
 
-### Databases, Cloud & Tools
+> Projects developed for private organizations and under research agreements are subject to confidentiality restrictions; their source code is therefore not publicly available.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+---
 
-## Professional Experience
-
-> **Note:** Work completed for private organizations and under research agreements is subject to confidentiality restrictions; source code is therefore not publicly available.
+## Professional & Research Experience
 
 ### Research Collaborator - Multi-Agent Systems | Massachusetts Institute of Technology (MIT)
-**Cambridge, MA | August 2026 - September 2026**
+**Cambridge, Massachusetts | August 2026 - September 2026**
 
 - Developing a multi-agent financial modeling system to estimate the total cost of an emerging geothermal energy generation method.
-- Building a research pipeline that connects technical evidence, cost drivers, and interacting agents to support more realistic techno-economic analysis.
+- Connecting technical evidence, cost drivers, and agent interactions to support more realistic techno-economic analysis.
 
 ### AI Scientist & Knowledge Engineer | Avangrid Management Company × IBM
 **United States | June 2026 - August 2026**
 
 - Contributed to ARCA, an AI-powered regulatory advisor for large-scale U.S. energy rate-case analysis, developed in collaboration with IBM.
 - Led the indexing workflow across ingestion, document classification, structure-aware chunking, and retrieval optimization for a heterogeneous regulatory corpus.
-- Benchmarked structure-aware, semantic, and recursive chunking; the selected strategy achieved **0.850 semantic integrity**, **57% lower fragmentation**, and **85% lower contamination** than recursive chunking.
-- Designed and evaluated a hybrid retrieval pipeline combining BM25, vector search, reciprocal rank fusion, scoped search fields, and Azure Semantic Ranker across **200 hand-graded questions and 8 query intents**.
-- Improved the selected retrieval configuration by **31.8% in MRR** and **27.8% in nDCG@10** over the baseline while reducing latency relative to semantic ranking alone.
+- Benchmarked three chunking approaches; the selected strategy achieved **0.850 semantic integrity**, **57% lower fragmentation**, and **85% lower contamination** than recursive chunking.
+- Designed and evaluated a hybrid retrieval pipeline combining BM25, vector search, reciprocal rank fusion, scoped search fields, and Azure Semantic Ranker across **200 hand-graded questions and eight query intents**.
+- Improved the selected retrieval configuration by **31.8% in MRR** and **27.8% in nDCG@10** over the baseline while lowering latency relative to semantic ranking alone.
 
 ### Data Scientist & Machine Learning Engineer | Iberdrola
 **Madrid & Bilbao, Spain | May 2025 - July 2025**
 
-- Built a Gurobi/HiGHS optimization scheduler for an **EUR 800M+ nationwide infrastructure program** covering **11.6 million electricity meters**.
+- Built a Gurobi/HiGHS optimization scheduler for an **EUR 800M+ national infrastructure program** covering **11.6 million electricity meters**.
 - Engineered a second-stage optimizer projected to generate **EUR 2.6M in cost savings** through improved base-node positioning and scheduling.
-- Integrated optimization models into Iberdrola's Azure ML data architecture and cloud-based production workflows.
+- Integrated the optimization system into Iberdrola's Azure ML architecture and cloud-based production workflows.
 - Supported the launch of Iberdrola's AI Training Academy and inaugural Machine Learning Lab in Bilbao.
 
 ### AI Research Scholar | Universidad Pontificia Comillas ICAI
 **Madrid, Spain | September 2024 - May 2026**
 
-- Developed LLM-based systems for automated evaluation of Python programming projects using tools including Hugging Face, Ollama, Unsloth, and vLLM.
-- Engineered an end-to-end MOOC production pipeline combining speech recognition, NLP-based content distillation, and 3D avatar synthesis.
-- Helped turn archived educational material into more than **10 full-scale online courses** for Fundación Zubiri.
+- Developed LLM-based systems for automated evaluation of Python projects using Hugging Face, Ollama, Unsloth, and vLLM.
+- Engineered an end-to-end MOOC pipeline combining speech recognition, NLP-based content distillation, and 3D avatar synthesis.
+- Helped transform archived educational material into more than **10 full-scale online courses** for Fundación Zubiri.
 
 ### Driverless Engineer | ISC Racing Team
 **Madrid, Spain | May 2023 - September 2024**
@@ -90,36 +70,35 @@ My recent work spans multi-agent modeling for geothermal economics at MIT, an AI
 - Developed a LiDAR-based perception pipeline using RANSAC, machine learning, and ROS for Formula Student Driverless competition.
 - Contributed to the integration of low-level vehicle control with high-level perception systems.
 
-## Featured Projects
+---
 
-### [Reinforcement Learning Logistics Environment](https://github.com/nacho-fel/ReinforcementLearning_MultipleEnvironmentLogisticApplication)
+## Technical Skills
 
-- Developed continuous-navigation and warehouse environments for increasingly complex logistics tasks.
-- Implemented SARSA with tile coding and DQN agents with Stable-Baselines3, including feature engineering, reward design, evaluation, and TensorBoard tracking.
+### Programming & Data
 
-### [Formula Student Driverless Simulator](https://github.com/nacho-fel/Formula-Student-Driverless-Simulator)
+`Python` `R` `MATLAB` `C#` `JavaScript` `SQL` `MongoDB` `Neo4j` `Redis`
 
-- Built a virtual environment where autonomous systems from different Formula Student teams can compete in time-trial challenges.
-- Focused on C++ implementation and high-performance simulation logic.
+### Machine Learning, AI Agents & Quantitative Methods
 
-### [Madrid GPS Application](https://github.com/nacho-fel/GPS_APP)
+`PyTorch` `scikit-learn` `Pandas` `NumPy` `LLMs` `RAG` `Multi-Agent Systems` `NLP` `Reinforcement Learning` `Time Series` `Mathematical Optimization` `Gurobi` `HiGHS` `OR-Tools`
 
-- Modeled Madrid's street network as a weighted graph and implemented navigation and route-planning algorithms.
+### Cloud, Search & Development
 
-### [Automatic Alert Generation - NER & Sentiment Analysis](https://github.com/nacho-fel/AutomaticAlertGenerator-NER-SA_Implementation)
+`Azure ML` `Azure AI Search` `AWS` `Docker` `Git` `GitHub` `Linux` `REST APIs` `TensorBoard` `Power BI`
 
-- Developed an automatic alert-generation pipeline for news articles and social media posts.
-- Implemented bidirectional LSTM and CNN architectures for NLP classification tasks.
+---
 
-## Education
+## Academic Background
 
 ### B.Sc. in Mathematical Engineering & Artificial Intelligence
 **Universidad Pontificia Comillas (ICAI), Madrid | Graduated June 2026**
 
-Relevant coursework: Natural Language Processing, Deep Learning, Reinforcement Learning, Autonomous Systems, Robotics, Statistical Modeling, Mathematical Optimization, and Numerical Methods.
+Relevant coursework includes Natural Language Processing, Deep Learning, Reinforcement Learning, Autonomous Systems, Robotics, Statistical Modeling, Mathematical Optimization, and Numerical Methods.
 
 ### Exchange Student - Grainger College of Engineering
 **University of Illinois Urbana-Champaign | January 2026 - June 2026**
+
+---
 
 ## Contact
 
