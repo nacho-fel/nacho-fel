@@ -1,6 +1,8 @@
-# Ignacio Felices Vera
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1E293B,45:2B5375,100:2AA198&text=Ignacio%20Felices%20Vera&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Mathematical%20Engineer%20%7C%20AI%20Researcher%20%7C%20Multi-Agent%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Ignacio Felices Vera - Mathematical Engineer, AI Researcher and Multi-Agent Systems" />
+</p>
 
-## Mathematical Engineer & AI Researcher | Multi-Agent Systems | Machine Learning | Quantitative Modeling | Optimization
+## Machine Learning | AI Agents | Quantitative Modeling | Optimization
 
 I am a Mathematical Engineering and Artificial Intelligence graduate from Universidad Pontificia Comillas (ICAI), with additional academic experience at the University of Illinois Urbana-Champaign. I am currently conducting research at MIT on multi-agent systems for geothermal techno-economic modeling.
 
